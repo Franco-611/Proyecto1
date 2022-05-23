@@ -9,7 +9,7 @@ Esta recreacion se realizó con dimensiones de 1903 x 1140 px.
 - **React** :electron:
 -  **Babel** 🛠
 - **Webpack** :package:
-- **Lint** :red_circle:
+- **ESlint** :red_circle:
 -  **CSS**  :purple_circle:
 
 ## ⚙️ Comandos importantes
