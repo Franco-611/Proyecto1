@@ -1,0 +1,99 @@
+.contt{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    margin-top: 30px;
+    height: 662px;
+}
+.clase{
+    font-size: 21px;
+    color: #165783;
+    font-family: Roboto, Helvetica, Arial, Verdana, sans-serif;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-align: center;
+    margin-top: 20px;
+}
+.contcapa{
+    display: grid;
+    grid-template-columns: repeat(3,369px);
+    grid-template-rows: repeat(2,250px);
+    grid-column-gap: 30px;
+    grid-row-gap: 60px;
+    justify-content: center;
+    margin-top: 25px;
+}
+.tl{
+    width: 369px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: top;
+    background-color: #f1f4fa;
+}
+.edi{
+    width: 369px;
+    height: 180px;
+    background-image: url("../img/edificio.png");
+    background-size: 55%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.ttt{
+    width: 369px;
+    height: 15px;
+    font-size: 20px;
+    color: #156ba0;
+    font-family: Roboto, Helvetica, Arial, Verdana, sans-serif, sans-serif;
+    line-height: 25px;
+    letter-spacing: normal;
+    text-align: center;
+    font-weight: 600;
+}
+.ttt:hover{
+    color: #156ba0;
+    cursor: default;
+}
+.capac{
+    width: 369px;
+    height: 180px;
+    background-image: url("../img/capa.svg");
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.cultura{
+    width: 369px;
+    height: 180px;
+    background-image: url("../img/cultura.svg");
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.tele{
+    width: 369px;
+    height: 180px;
+    background-image: url("../img/tele.svg");
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin-bottom: 10px;
+}
+.pregunta{
+    width: 369px;
+    height: 180px;
+    background-image: url("../img/pregunta.svg");
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.micro{
+    width: 369px;
+    height: 180px;
+    background-image: url("../img/micro.svg");
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: center;
+}

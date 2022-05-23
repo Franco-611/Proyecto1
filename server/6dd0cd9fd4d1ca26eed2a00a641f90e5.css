@@ -1,0 +1,121 @@
+.cont22{
+    display: flex;
+    flex-direction: row;
+    background-color: #f3f4f9;
+    height: 792px;
+}
+.adu{
+    width: 1173px;
+    height: 792px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.del12{
+    width: 95px;
+    height: 3px;
+    margin-top: -7px;
+    color: white;
+    background-color:#00AAE6;
+}
+.edd{
+    width: 730px;
+    height: 792px;
+    background-image:url("../img/edd.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.nombre{
+    font-size: 21px;
+    color: #156ba0;
+    font-family: Roboto, Helvetica, Arial, Verdana, sans-serif;
+    line-height: 20px;
+    letter-spacing:1px;
+    text-align: center;
+    margin-top: 100px;
+}
+.casi1{
+    width: 670px;
+    height: 240px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 78px;
+}
+.casi2{
+    width: 670px;
+    height: 240px;
+    display: flex;
+    flex-direction: row;
+}
+.prime{
+    width: 335px;
+    height: 240px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.edd1{
+    width: 110px;
+    height: 110px;
+    background-image:url("../img/edificio.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.tit19{
+    width: 290px;
+    height: 15px;
+    font-size: 16px;
+    color: #0069a3;
+    font-family: Roboto, Helvetica, Arial, Verdana, sans-serif, sans-serif;
+    line-height: 25px;
+    letter-spacing: normal;
+    text-align: center;
+    font-weight: 600;
+}
+.tett29{
+    margin-top: 13px;
+    width: 305px;
+    font-size: 15px;
+    color: #0069a3;
+    font-family: Roboto, Helvetica, Arial, Verdana, sans-serif, sans-serif;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-align: center;
+}
+.tett229{
+    margin-top: 13px;
+    width: 305px;
+    font-size: 13px;
+    color: #0069a3;
+    font-family: Roboto, Helvetica, Arial, Verdana, sans-serif, sans-serif;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-align: center;
+}
+.lu{
+    width: 110px;
+    height: 110px;
+    background-image:url("../img/lu.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: center;
+}
+.bolsa{
+    width: 110px;
+    height: 110px;
+    background-image:url("../img/bolsa.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 65%;
+    background-position: center;
+}
+.iso{
+    width: 110px;
+    height: 110px;
+    background-image:url("../img/iso.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: center;
+}

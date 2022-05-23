@@ -1,0 +1,70 @@
+.final{
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: top;
+    height: 99px;
+    background-color: #165783;
+}
+.fin1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 48px;
+    background-color: #0069a3;
+    padding-right: 25px;
+}
+.fin2{
+    height: 51px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 16.7px;
+    line-height: 30px;
+    font-family: "Libre Franklin", sans-serif;
+    color: white;
+}
+.unpoco{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40px;
+}
+.casi{
+    font-size: 15px;
+    line-height: 30px;
+    font-family: "Libre Franklin", sans-serif;
+    color: white;
+    margin-left: 5px;
+}
+.señal{
+    width: 26px;
+    height: 27px;
+    background-image:url("../img/señal.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 5px;
+}
+.mail{
+    width: 26px;
+    height: 27px;
+    background-image:url("../img/mail.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.mapa{
+    width: 26px;
+    height: 27px;
+    background-image:url("../img/mapa.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

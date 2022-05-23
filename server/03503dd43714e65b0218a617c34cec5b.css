@@ -1,0 +1,81 @@
+.co{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    height: 471px;
+    background-image:  linear-gradient(to top,  #e2f5fc, #fafdfe);
+}
+.del22{
+    width: 100px;
+    height: 3px;
+    margin-top: 36px;
+    color: white;
+    background-color:#00AAE6;
+}
+.f{
+    font-size: 21px;
+    color: #156ba0;
+    font-family: Roboto, Helvetica, Arial, Verdana, sans-serif;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-align: center;
+    margin-top: 50px;
+}
+.contac{
+    display: flex;
+    flex-direction: row;
+    height: 280px;
+    margin-top: 30px;
+    margin-left: -1px;
+}
+.tl1{
+    width: 455px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content:end;
+    background-image: url("../img/silla.jpg");
+    background-size: cover;
+}
+.tl2{
+    width: 465px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content:end;
+    background-image: url("../img/don.jpg");
+    background-size: cover;
+    margin-left: 10px;
+}
+.tl3{
+    width: 465px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content:end;
+    background-image: url("../img/movil.jpg");
+    background-size: cover;
+    margin-left: 10px;
+}
+.tl4{
+    width: 465px;
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content:end;
+    background-image: url("../img/compu.jpg");
+    background-size: cover;
+    margin-left: 10px;
+}
+.sas{
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    font-family: Roboto, Helvetica, Arial, Verdana, sans-serif, sans-serif;
+    line-height: 25px;
+    letter-spacing: normal;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 30px;
+}

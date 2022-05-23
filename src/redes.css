@@ -1,0 +1,63 @@
+.contred{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: top;
+    height: 160px;
+    font-size: 15px;
+    font-family: Roboto, Helvetica, Arial, Verdana, sans-serif;
+    color: #165783;
+    padding-left: 115px;
+}
+.yaque{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.red{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+.face{
+    width: 65px;
+    height: 65px;
+    background-image:url("../img/face.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 85%;
+    background-position: center;
+    margin-top: 20px;
+}
+.twi{
+    width: 65px;
+    height: 65px;
+    background-image:url("../img/twi.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 85%;
+    background-position: center;
+    margin-top: 20px;
+}
+.you{
+    width: 65px;
+    height: 65px;
+    background-image:url("../img/you.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 85%;
+    background-position: center;
+    margin-top: 20px;
+}
+.insta{
+    width: 65px;
+    height: 65px;
+    background-image:url("../img/insta.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 85%;
+    background-position: center;
+    margin-top: 20px;
+}

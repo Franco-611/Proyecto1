@@ -1,0 +1,86 @@
+.cont1{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    background-color: #f3f4f9;
+    height: 337px;
+}
+h1{
+    font-size: 21px;
+    color: #165783;
+    font-family: Roboto, Helvetica, Arial, Verdana, sans-serif;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-align: center;
+    margin-top: 26px;
+}
+.del{
+    width: 170px;
+    height: 3px;
+    margin-top: -5px;
+    background-color:#00AAE6;
+}
+.re{
+    height: 249px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.quiero{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 400px;
+    height: 249px;
+}
+.numero1{
+    width: 70px;
+    height: 70px;
+    background-image:url("../img/uno.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.numero2{
+    width: 70px;
+    height: 70px;
+    background-image:url("../img/dos.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.numero3{
+    width: 70px;
+    height: 70px;
+    background-image:url("../img/tres.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.lotro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 65px;
+}
+.num1{
+    width: 150px;
+    height: 150px;
+    background-image:url("../img/lupa.png");
+}
+.num2{
+    width: 150px;
+    height: 150px;
+    background-image:url("../img/nit.png");
+}
+.num3{
+    width: 150px;
+    height: 150px;
+    background-image:url("../img/calendario.png");
+}
+h2{
+    font-size: 19px;
+    color: #165783;
+    font-family: Roboto, Helvetica, Arial, Verdana, sans-serif;
+    line-height: 29px;
+    letter-spacing: normal;
+    text-align: center;
+}

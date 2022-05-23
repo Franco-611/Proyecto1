@@ -1,0 +1,139 @@
+.NOT{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    height: 663px;
+    margin-bottom: 10px;
+}
+.del29{
+    width: 55px;
+    height: 3px;
+    margin-top: -9px;
+    color: white;
+    background-color:#00AAE6;
+}
+.f1{
+    font-size: 21px;
+    color: #156ba0;
+    font-family: Roboto, Helvetica, Arial, Verdana, sans-serif;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-align: center;
+    margin-top: 42px;
+}
+.conNot{
+    display: grid;
+    grid-template-columns: repeat(4,406px);
+    grid-template-rows: repeat(1,497px);
+    grid-column-gap: 40px;
+    justify-content: center;
+    margin-top: 47px;
+}
+.Noticia1{
+    width: 406px;
+    height: 271px;
+    display: flex;
+    flex-direction: column;
+    justify-content:end;
+    background-image: url("../img/noticia1.png");
+    background-size: cover;
+    margin-bottom: 10px;
+}
+.Noticia2{
+    width: 406px;
+    height: 271px;
+    display: flex;
+    flex-direction: column;
+    justify-content:end;
+    background-image: url("../img/noticia2.jpeg");
+    background-size: cover;
+    margin-bottom: 10px;
+}
+.Noticia3{
+    width: 406px;
+    height: 271px;
+    display: flex;
+    flex-direction: column;
+    justify-content:end;
+    background-image: url("../img/noticia3.jpeg");
+    background-size: cover;
+    margin-bottom: 10px;
+}
+.Noticia4{
+    width: 406px;
+    height: 271px;
+    display: flex;
+    flex-direction: column;
+    justify-content:end;
+    background-image: url("../img/noticia4.jpeg");
+    background-size: cover;
+    margin-bottom: 10px;
+}
+.tituloTexto{
+    width: 406px;
+    font-size: 16px;
+    color: #153658;
+    font-family: Roboto, Helvetica, Arial, Verdana, sans-serif, sans-serif;
+    line-height: 30px;
+    letter-spacing: normal;
+    text-align: left;
+    font-weight: 600;
+}
+.contieneTexto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.tiene1{
+    margin-top: 10px;
+    width: auto;
+    font-size: 11px;
+    color: #333333;
+    font-family: Roboto, Helvetica, Arial, Verdana, sans-serif, sans-serif;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-align: left;
+}
+.tiene2{
+    margin-top: 10px;
+    width: auto;
+    font-size: 13px;
+    font-family: Roboto, Helvetica, Arial, Verdana, sans-serif;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ababab;
+}
+.tiene2:hover{
+    color: #ababab;
+    cursor: default;
+}
+.BOTON{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 113px;
+    height: 36px;
+    background-color: #253356;
+    color: white;
+    border-radius: 4px;
+    font-size: 13px;
+    font-family: Roboto, Helvetica, Arial, Verdana, sans-serif, sans-serif;
+    line-height: 16px;
+    letter-spacing: normal;
+    text-align: center;
+}
+.BOTON:hover{
+    background-color: #00AAE6;
+    color: #00AAE6;
+}
+.Flechita{
+    margin-left: 6px;
+    width: 8.5px;
+    height: 9px;
+    background-image: url("../img/flechita.png");
+    background-size: cover;
+}
